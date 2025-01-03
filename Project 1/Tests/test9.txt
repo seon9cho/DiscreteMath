@@ -1,0 +1,7 @@
+
+
+# unterminated string 2
+
+'good string'
+
+'bad string
